@@ -3,7 +3,7 @@ plotly==4.14.0
 SoundFile==0.10.3.post1
 --find-links https://download.pytorch.org/whl/torch_stable.html torch==1.7.0+cpu
 pytorch_lightning==1.0.8
-scipy==1.5.3
+scipy
 streamlit==0.72.0
 PyYAML==5.3.1
 resampy==0.2.2
